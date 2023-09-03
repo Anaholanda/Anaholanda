@@ -2,7 +2,7 @@
 
 
    ##
-  Olá pessoal, meu nome é Ana Kelly. Sou técnica em informática, graduada em Análises e desenvolvimento de sistemas pela Universidade Estácio de Sá,e pós graduanda em Engenharia de sotfware pela mesma Universidade. Sou Analista de qualidade de software atuando a 4 anos no mercado objetificando a qualidade e experiência do usuário final. Utilizo este repositório para anexar meus trabalhos e curiosidades técnicas. 
+  Olá pessoal, meu nome é Ana Kelly. Sou técnica em informática, graduada em Análises e desenvolvimento de sistemas pela Universidade Estácio de Sá, e pós graduanda em Engenharia de sotfware pela mesma Universidade. Sou Analista de qualidade de software atuando a 4 anos no mercado objetificando a qualidade e experiência do usuário final. Utilizo este repositório para anexar meus trabalhos e curiosidades técnicas. 
  
 ##
 **Idiomas:**
