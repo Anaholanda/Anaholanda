@@ -14,24 +14,82 @@
 **Tecnológias:**
 
   Apaixonada por tecnologia, programação, inovação e experiência do usuário. Estes são alguns skills que já trabalhei e possuo vastas experiências:
+
+  **Back-end:**
   
-<div style="display: inline_block"><br>gi
-  <img align="center" alt="python" height="33" width="40"  src="images/python.png">
-  <img align="center" alt="java" height="33" width="40" src="images/java.png">
-  <img align="center" alt="javascript" height="33" width="40" src="images/javascript.png" />
-  <img align="center" alt="GO" height="33" width="40" src="images/Go.png">
+<div style="display: inline_block"><br>
+
+<img align="center" alt="python" height="33" width="40"  src="images/python.png"/>
+<img align="center" alt="java" height="33" width="40" src="images/java.png"/>
+<img align="center" alt="javascript" height="33" width="40" src="images/javascript.png"/>
+<img align="center" alt="GO" height="33" width="40" src="images/Go.png"/>
+<img align="center" alt="c" height="33" width="40" src="images/c.jpg"/>
+<img align="center" alt="c#" height="33" width="40" src="images/c2.png"/>
+<img align="center" alt="c++" height="33" width="40" src="images/c++.webp"/>
+</div>
+
+##
+
+**Frameworks front-end:**
+<div style="display: inline_block"><br>
+<img align="center" alt="react" height="33" width="40"  src="images/react.png"/>
+<img align="center" alt="vuejs" height="33" width="40" src="images/vuejs.png"/>
+<img align="center" alt="jquery" height="33" width="40" src="images/jquery.png"/>
+<img align="center" alt="angular" height="33" width="40" src="images/angular.png"/> 
+</div>
+
+##
+
+**Controle de versionamento:**
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="gitlab" height="33" width="40"  src="images/gitlab.png">
+<img align="center" alt="git" height="33" width="40"  src="images/git.png">
+</div>
+
+##
+
+ **Banco de dados:**
+<div style="display: inline_block"><br>
+
+<img align="center" alt="sqlserver" height="33" width="40"  src="images/sqlserver.svg">
+<img align="center" alt="postgree" height="33" width="40"  src="images/postgree.png">
+<img align="center" alt="mysql" height="33" width="40"  src="images/mysql.png">
+<img align="center" alt="MongoDB" height="33" width="40"  src="images/MongoDB.png">
+ </div>
+
+ ##
+
+  **Frameworks de testes:**
+  
+  <div style="display: inline_block"><br>
   <img align="center" alt="sikuli" height="32" width="40" src="images/sikuli.png">
   <img align="center" alt="Robotframework" height="29" width="40" src="images/Robotframework.png">
   <img align="center" alt="cypress" height="35" width="40" src="images/cypress.png">
-  <img align="center" alt="selenium" height="35" width="40" src="images/selenium.png" />
-  <img align="center" alt="git" height="35" width="40" src="images/git.png" />
-   <img align="center" alt="git" height="35" width="40" src="images/jmeter.png" />
-</div>
-<br>
+  <img align="center" alt="selenium" height="35" width="40" src="images/selenium.png">
+  </div>
+  <br>
 
 
    ##
-   
+
+  **Trabalhos voluntários e acções sociais:**
+  ##
+
+  Como profissional mulher no mundo da T.I que ainda é uma área que a predominação é masculina,participo de ações sociais voltados a apresentar o mercado de trabalho da T.I para a mulher atualmente. As apresentações ocorrem em escolas municipais e estaduais de Fortaleza. O objetivo é mostrar para adolescente e outras mulheres que ela podem sim fazer parte do mundo da T.I.
+  Aqui estão alguns registros de algumas apresentações maravilhosas que tive o prazer de liderar.
+##
+  <div style="display: inline_block"><br>
+
+  <img align="center" alt="8 de março" height="32" width="40" src="images/8 de março.jpg">
+  <img align="center" alt="apresentação" height="29" width="40" src="images/apresentação.jpg">
+  <img align="center" alt="apresentação2" height="32" width="40" src="images/apresentação2.jpg">
+
+  </div>
+
+
+##
 
 <div> 
   <a href = "mailto:kellyholanda59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
