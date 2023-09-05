@@ -82,9 +82,9 @@
 ##
   <div style="display: inline_block"><br>
 
-  <img align="center" alt="8 de março" height="32" width="40" src="images/8 de março.jpg">
-  <img align="center" alt="apresentação" height="29" width="40" src="images/apresentação.jpg">
-  <img align="center" alt="apresentação2" height="32" width="40" src="images/apresentação2.jpg">
+  <img align="center" alt="8 de março" height="340" width="500" src="images/8 de março.jpg">
+  <img align="center" alt="apresentação" height="340" width="300" src="images/apresentação.jpg">
+  <img align="center" alt="apresentação2" height="340" width="300" src="images/apresentação2.jpg">
 
   </div>
 
