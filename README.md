@@ -77,7 +77,7 @@
   **Trabalhos voluntários e acções sociais:**
   ##
 
-  Como profissional mulher no mundo da T.I que ainda é uma área que a predominação é masculina,participo de ações sociais voltados a apresentar o mercado de trabalho da T.I para a mulher atualmente. As apresentações ocorrem em escolas municipais e estaduais de Fortaleza. O objetivo é mostrar para adolescente e outras mulheres que ela podem sim fazer parte do mundo da T.I.
+  Como profissional e mulher no mundo da tecnólogia da informação que ainda possui uma alta predominancia masculina, participo de ações sociais voltadas a apresentar o mercado de trabalho da T.I para a mulher atualmente. As apresentações ocorrem em escolas municipais e estaduais de Fortaleza. O objetivo é mostrar para adolescente e outras mulheres que ela podem sim fazer parte do mundo da T.I.
   Aqui estão alguns registros de algumas apresentações maravilhosas que tive o prazer de liderar.
 ##
   <div style="display: inline_block"><br>
