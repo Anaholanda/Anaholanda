@@ -71,6 +71,15 @@
   </div>
   <br>
 
+##
+
+  **Testes de performances/carga:**
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="jmeter" height="32" width="40" src="images/jmeter.png">
+  <img align="center" alt="k6" height="29" width="40" src="images/k6.png">
+  </div>
+  <br>
 
    ##
 
