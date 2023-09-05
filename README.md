@@ -7,7 +7,7 @@
 ##
 **Idiomas:**
 
-  Eu sou nativa e fluente em português, e possuo inglês intermediário para conversação do dia dia e técnica. Além disso, sei me comunicar na linguagem de sinais, libras. 
+  Eu sou nativa e fluente em português, e possuo inglês intermediário para conversação do dia a dia e técnica. Além disso, sei me comunicar na linguagem de sinais, libras. 
 
    ##
 
